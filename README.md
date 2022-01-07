@@ -107,7 +107,7 @@ src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=Github&logoColor=whi
 </p>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Md Nasir Uddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nasiruddinml&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nasiruddinml"><img alt="Md Nasir Uddin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nasiruddinml&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nasiruddinml.nasiruddinml"/>
